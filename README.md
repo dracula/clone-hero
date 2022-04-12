@@ -1,16 +1,16 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Clone Hero](https://clonehero.net)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Clone Hero](https://clonehero.net).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/clonehero](https://draculatheme.com/clonehero).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/clonehero/graphs/contributors).
 
 | [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
 | ---------------------------------------------------------------------------------------- |
