@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/clonehero](https://draculathe
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/clonehero/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [![Joshua Peisach](https://github.com/ItzSwirlz.png?size=100)](https://github.com/ItzSwirlz) |
+| -------------------------------------------------------------------------------------------- |
+| [Joshua Peisach](https://github.com/ItzSwirlz)                                               |
 
 ## Community
 
