@@ -10,7 +10,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/clonehero/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/clone-hero/archive/master.zip) option and unzip them.
 
 The files must be placed in the appropriate folder in the game files of Clone Hero. The contents in Colors/* goes in Custom/Colors, Highways in Custom/Highways/*, etc.
 
