@@ -1,6 +1,6 @@
 ### [Clone Hero](https://clonehero.net)
 
-## NOTE: You MUST be on the PTB (Public Test Build). To get the PTB, join the [Clone Hero Discord Server.](https://discord.gg/Hsn4Cgu) Go to #ptb-opt-in and follow the directions *exactly as shown*.
+*NOTE: You MUST be on the PTB (Public Test Build). To get the PTB, join the [Clone Hero Discord Server.](https://discord.gg/Hsn4Cgu) Go to #ptb-opt-in and follow the directions *exactly as shown*.*
 
 #### Install using Git
 
