@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/clonehero](https://draculatheme.com/clonehero).
+All instructions can be found at [draculatheme.com/clone-hero](https://draculatheme.com/clone-hero).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/clonehero/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/clone-hero/graphs/contributors).
 
 | [![Joshua Peisach](https://github.com/ItzSwirlz.png?size=100)](https://github.com/ItzSwirlz) |
 | -------------------------------------------------------------------------------------------- |
