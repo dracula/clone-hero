@@ -1,12 +1,14 @@
-# Dracula for [Clone Hero](https://clonehero.net)
+# Dracula for [Clone Hero](https://clonehero.net) and [ScoreSpy](https://scorespy.online)
 
-> A dark theme for [Clone Hero](https://clonehero.net).
+> A dark theme for [Clone Hero](https://clonehero.net) and [ScoreSpy](https://scorespy.online).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/clone-hero](https://draculatheme.com/clone-hero).
+
+The theme should work for both Clone Hero and ScoreSpy.
 
 ## Team
 
